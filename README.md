@@ -16,7 +16,7 @@ Echoes of Greybridge is a creative project exploring interactive storytelling an
    ```
    git clone https://github.com/yourusername/echoes-of-greybridge.git
    ```
-2. Open `Echoes of Greybridge.html` in your browser.
+2. Open `index.html` in your browser.
 
 ## 🤝 Contributing
 
